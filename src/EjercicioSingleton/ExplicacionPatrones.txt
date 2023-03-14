@@ -1,0 +1,20 @@
+Patrones de creacionales.
+Sirve para crear objetos o instancias de una manera simple.
+Singleton.
+Solamente puede haber una instacia de una clase.
+Factory.
+Sirve para construir una jerarquia de clases.
+Builder.
+nos permite construir objetos complejos paso a paso evitando constructores muy largos.
+Prototype.
+Tiene como objetivo clonar un clase asi misma, el clon hereda todos los metodos,propiedades y estados
+de la misma clase.
+Decorator.
+Añade funcionalidad a una clase existente sin tocar dicha clase.
+Adapter.
+Es el uso de una interfaz existente de un clase para poder convertir datos en varios formatos o puede ayudar a que otras
+interfaces colaboren
+Facade
+Es la creacion de una nueva interfaz que permite el manejo de varias clases logrnado entrar a sus metodos y haciendo que el
+usario pueda ingresar a esta con facilidad
+
